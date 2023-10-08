@@ -1,1 +1,1 @@
-# BeyondTheTrees_Art
+# Art repository
